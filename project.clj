@@ -1,4 +1,4 @@
-(defproject com.semperos/brockman "0.1.0-SNAPSHOT"
+(defproject com.semperos/brockman "0.1.0"
   :description "Custom test reporting for clojure.test"
   :url "https://github.com/semperos/brockman"
   :license {:name "Eclipse Public License"
