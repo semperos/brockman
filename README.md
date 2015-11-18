@@ -4,6 +4,10 @@
 
 Simple RSpec-inspired test reporter for clojure.test.
 
+[![Clojars Project](http://clojars.org/com.semperos/brockman/latest-version.svg)](http://clojars.org/com.semperos/brockman)
+
+[![Build Status](https://travis-ci.org/semperos/brockman.svg?branch=master)](https://travis-ci.org/semperos/brockman)
+
 ## Installation
 
 Until this is released to a Maven repo:
