@@ -2,7 +2,7 @@
 
 ![Kent Brockman](doc/kent-brockman.jpg "Kent Brockman")
 
-A Clojure library that provides alternative clojure.test reporters. To start, this just includes an RSpec-inspired output format.
+Simple RSpec-inspired test reporter for clojure.test.
 
 ## Installation
 
